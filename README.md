@@ -141,3 +141,7 @@ Note running experiments with a very small number of classes for simple shapes m
 ## Tests
 
 To run unittests: `python -m pytest tests`
+
+## License
+
+See [License file](LICENSE)
