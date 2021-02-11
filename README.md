@@ -144,6 +144,19 @@ Note running experiments with a very small number of classes for simple shapes m
 
 To run unittests: `python -m pytest tests`
 
+## Citation
+
+```
+@misc{bouchacourt2021addressing,
+      title={Addressing the Topological Defects of Disentanglement via Distributed Operators}, 
+      author={Diane Bouchacourt and Mark Ibrahim and Stéphane Deny},
+      year={2021},
+      eprint={2102.05623},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 ## License
 
 See [License file](LICENSE)
