@@ -1,4 +1,6 @@
-# Addressing the Topological Defects of Disentanglement
+# Addressing the Topological Defects of Disentanglement via Distributed Operators
+
+[ArXiv link](https://arxiv.org/abs/2102.05623)
 
 ## Installation
 
